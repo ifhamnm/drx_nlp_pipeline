@@ -67,7 +67,7 @@ drx_nlp_pipeline/
 4. **Download the LLaMA model**:
    - The LLaMA model `llama-2-7b.Q4_K_M.gguf` is **too large to be included in the repository**.
    - **Follow these steps** to download the model:
-     - Visit [LLaMA's official website or download page](https://example.com/download-link) for the model.
+     - Visit [LLaMA's official website or download page](https://huggingface.co/Kondara/GBLM-Pruner-LLaMA-2-7B-chat-Q4_K_M-GGUF/tree/main) for the model.
      - Download the model and place the `llama-2-7b.Q4_K_M.gguf` file inside the `models/` folder.
 
 5. **Vector Database Setup**:
